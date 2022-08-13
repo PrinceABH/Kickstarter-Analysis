@@ -1,6 +1,6 @@
 # Kickstarting with Excel
-###Preform analysis on Kickstarter data to uncover trends
-###Link to Kickstarter Excel:https://github.com/PrinceABH/Kickstarter-Analysis/blob/main/Kickstarter_challenge.xlsx
+### Preform analysis on Kickstarter data to uncover trends
+### Link to Kickstarter Excel:https://github.com/PrinceABH/Kickstarter-Analysis/blob/main/Kickstarter_challenge.xlsx
 
 ## Overview of Project
 
